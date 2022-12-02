@@ -1,0 +1,213 @@
+*{
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Montserrat';
+    font-size: large;
+    color: white;
+}
+.container1{
+    display:block;
+    height: 2.5rem;
+    width: 100%;
+    background: black;
+    
+}
+.header1{
+    padding-right: 8px; 
+    padding-top: 5px;
+}
+.header1 ul{
+    display: inline;
+    float: right;
+    display: flex;
+    padding-right: 4rem;
+    padding-bottom: 6px; 
+}
+.header1 ul li{
+    color: white;
+}
+.cart{
+    height: 20px;
+    width: 20px;   
+    padding-right: 10px;
+    padding-top: 3px;
+}
+.globe{
+    height: 20px;
+    width: 20px;
+    padding-top: 4px;
+    padding-right: 10px;
+}
+.header1 ul p{
+    font-size: 14px;
+    padding-top: 5px;
+}
+.container2{
+    height: 5rem;
+    width: 100%;
+    background: black;
+    display: inline-block;
+    color: white;
+    
+    
+}
+.header2{
+display: flex;
+padding-right: rem;
+justify-content: space-between;
+padding-top: 10px;
+
+
+}
+.logo{
+    height: 50px;
+    width: 50px;
+    padding-left: 70px;
+    
+    
+}
+.but1{
+    width: 10rem;
+    background-color:#cf1019;
+    border-radius: 4rem;
+    height: 2.5rem;
+    font-weight: bold;
+    
+    
+}
+.navbar li{
+    display: inline-block;
+    padding-top: 20px;
+
+}
+
+.header2 ul li{
+    padding-right: 2rem;
+}
+.container3{
+    display: flex;
+    height: 2rem;
+    width: 100%;
+    background: #cf101ab3;
+    
+    
+}
+.main{
+    position: fixed;
+    display: contents;
+    width: 100%;
+}
+.container4{
+    
+    width: 100%;
+    color:#fff;
+    text-align: center;
+    align-items: center;
+}
+.container4 ul li h2{
+    font-size: medium;
+    padding-top: 100px;
+}
+.container4 ul li h1{
+    font-size: 80px; 
+    font-weight: bolder;
+    padding-top: 10px;  
+}
+
+/* .background img{
+    height: 130vh;
+    width: 100%;
+} */
+
+.background{
+    background-image: url(./background.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 130vh;
+}
+.container4 ul li p{
+    padding-top: 10px;
+}
+.buttons{
+    padding-top: 28px;
+}
+.btna{
+    
+    border-radius: 4rem;
+    background-color:white;
+    color: black;
+    padding-bottom: 10px;
+    
+    font-weight: bold;
+}
+.btnb{
+    
+    border-radius: 4rem;
+    background-color: transparent;
+    color: black;
+    padding-bottom: 10px;
+    
+
+}
+.container5{
+    height: 200px;
+    width: 100%;
+    background: #272323;
+    display: flex;
+    justify-content: space-between;
+}
+.container5 h1{
+    padding-top: 50px;
+    font-size: 50px;
+}
+.col2{
+    padding-top: 80px;
+
+
+}
+.col3{
+    padding-top: 80px;
+    padding-right: 40px;
+
+}
+.submit{
+    border-radius: 2rem;
+    height: 50px;
+    width: 150px;
+    color: black;
+    
+}
+.footer1{
+    height: 100px;
+    background: black;
+    padding-bottom: 60px;
+    
+    
+}
+.socials li img{
+    width: 30px;
+    height: 30px;
+    padding-top: 30px;
+}
+
+
+.socials li{
+    display: inline;
+    padding-left: 10px;
+    justify-content: space-between;
+    
+}
+.logos{
+    height: 80px;
+    padding-right: 40px;    
+}
+.socials{
+}
+
+.spartan{
+    float: right;
+    
+}
+
+
